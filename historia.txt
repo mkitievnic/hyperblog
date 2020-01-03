@@ -6,3 +6,4 @@ Vivo en la ciudad de Santa Cruz de la Sierra, Bolivia.
 Trabajo como Asistente de QHSE, durante 13 años.
 Estuvo a cargo del procesamiento de informacion de seguridad industrial.
 Como tambien estuvo a cargo del procesamiento de informacion de entrenamiento de la Cia.
+Esta es una ultima linea que se incorpora al archivo de historia.
