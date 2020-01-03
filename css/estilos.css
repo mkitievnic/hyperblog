@@ -1,7 +1,13 @@
 body 
 {
+    background-color: dimgray;
     color:deeppink;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 
+}
+
+h1
+{
+    font-family: fantasy;
 }
