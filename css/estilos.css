@@ -16,8 +16,8 @@ p{
 }
 
 #cabecera{
-    width: 75;
-    background: #33A;
+    width: 100;
+    background:red;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color:rgba(243, 228, 13, 0.952);
     font-weight: bold;
